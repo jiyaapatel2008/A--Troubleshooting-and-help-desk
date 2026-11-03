@@ -31,7 +31,9 @@ Conclusion: A POST card makes it easier to identify hardware problems when a com
 ---
 
 Task 3: Software Diagnostic Tool
-https://github.com/jiyaapatel2008/A--Troubleshooting-and-help-desk/blob/main/IMG_0457.jpeg
+## Task 3: Software Diagnostic Tool
+
+![Activity Monitor Memory Screenshot](IMG_0457.jpeg)
 
 Note: I am using a MacBook, so I used Apple's built-in Activity Monitor to check system health details such as memory usage and memory pressure instead of HWMonitor.
 Selected Tool: HWMonitor
